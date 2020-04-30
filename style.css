@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.3em;
+  line-height: 1.4;
+  /* max-width: 80%; */
+  margin: 0 auto;
+  max-width: 30em;
+  width: 88%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  padding-top: 1em;
+}
+
+p {
+  margin-bottom: 1.4em;
+}
+
+figure {
+  margin: 0 0 1.4em;
+}
+
+caption {
+  color: #808080;
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  padding: 0.25em 0 0.5em;
+  text-align: center;
+}
